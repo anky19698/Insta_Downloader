@@ -1,0 +1,5 @@
+instaloader==4.11
+Pillow==10.3.0
+Requests==2.32.3
+streamlit==1.34.0
+streamlit_option_menu==0.3.13
